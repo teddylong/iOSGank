@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - AMScrollingNavbar (2.1.1)
+  - DGElasticPullToRefresh (1.0.3)
+  - Kanna (1.0.6)
+  - LTMorphingLabel (0.2.0)
+  - MXParallaxHeader (0.5.1)
+  - NVActivityIndicatorView (2.9)
+  - PKHUD (3.2.1)
+  - PullToBounce (0.0.3)
+  - RAMAnimatedTabBarController (1.2.2)
+  - RAMPaperSwitch (0.0.3)
+  - SKPhotoBrowser (2.0.0)
+  - SwiftHEXColors (1.0.4)
+  - SwiftMoment (0.5.1)
+  - SwiftyJSON (2.3.2)
+  - UMengAnalytics-NO-IDFA (4.0.5)
+  - UMengSocialCOM (5.2.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - AlamofireImage (~> 2.0)
+  - AMScrollingNavbar
+  - DGElasticPullToRefresh
+  - Kanna (~> 1.0.0)
+  - LTMorphingLabel
+  - MXParallaxHeader
+  - NVActivityIndicatorView
+  - PKHUD
+  - PullToBounce
+  - RAMAnimatedTabBarController (~> 1.2.2)
+  - RAMPaperSwitch (~> 0.0.3)
+  - SKPhotoBrowser
+  - SwiftHEXColors
+  - SwiftMoment
+  - SwiftyJSON
+  - UMengAnalytics-NO-IDFA
+  - UMengSocialCOM (~> 5.2.1)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  AMScrollingNavbar: 22848c8c7e4893e239cf32c0b914f672cd334209
+  DGElasticPullToRefresh: 040f39ae69840b3261d163fe6735c5901bf851e9
+  Kanna: 9f30945bbd293a609f698ea164687ccc0990ff60
+  LTMorphingLabel: 490aa8e079f9247c7f3130f7d4b1be1d66677377
+  MXParallaxHeader: b40fabd42d1bb76f6d1a713ceae5628f69241bd6
+  NVActivityIndicatorView: 0084f6be71bdf4735b5424ebfb530b1e3db3276c
+  PKHUD: 001c11518f125a273ddf026bcc64918423744ea2
+  PullToBounce: d2c6300b92fa124f7133e0ca0088bbf7a7059194
+  RAMAnimatedTabBarController: cadbef3162bc7ae86091661273ccec503deb3398
+  RAMPaperSwitch: a9fc5d6812e998ad26f1c8f67fb33114b5904129
+  SKPhotoBrowser: 6a4ef17ea9e4e7358df29c2e552d9f33657dcd8a
+  SwiftHEXColors: b0ecc7bd83a1aa2e1956f9ba51f55ebb2bcf86ef
+  SwiftMoment: 469c0734b5d4d6631a15a91f8093cf436c3cbb7c
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  UMengAnalytics-NO-IDFA: 965a219b05475ff2a4c09a164139a27bbaa0e25b
+  UMengSocialCOM: 074c135ce349aa4c8848d3fb8458757bcb6ffb67
+
+COCOAPODS: 0.39.0
