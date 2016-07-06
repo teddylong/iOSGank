@@ -41,8 +41,12 @@ Gank.io iOS 客户端
 
 #### GankItem & Daily
 根据Gank.io的API的返回,可以大致总结出2个实体类
-Daily为定义每一天的总体数据
 
+Daily为定义每一天的总体数据
+	 
+	private var _category: NSArray = []
+    private var _results: Array<GankItem> = []
+    
     var category: NSArray {
         get{
             return _category
@@ -61,5 +65,39 @@ Daily为定义每一天的总体数据
     }
 
 GankItem为每一条的具体内容
+    
+    private var _id: String? = ""
+    private var _createdAt: String? = ""
+    private var _desc: String? = ""
+    private var _publishedAt: String? = ""
+    private var _source: String? = ""
+    private var _type: String? = ""
+    private var _url: String? = ""
+    private var _who: String? = ""
+    private var _readability: String? = ""
+    
+    var id: String? {
+        get{
+            return _id
+        }
+        set{
+            _id = newValue
+        }
+    }
+    var createdAt: String? {
+        get{
+            return _createdAt
+        }
+        set{
+            _createdAt = newValue
+        }
+    }
+    ......
+    ......
+
+数据结构就这2种,其他的就是显示UI了,大家可以down下源码看看,注释写的不算少,一看就懂!
+
+来张项目图吧:
+![](snapshot.png)
 
 
