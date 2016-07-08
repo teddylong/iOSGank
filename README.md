@@ -4,6 +4,43 @@ Gank.io iOS 客户端
 
 其实原来就打算以学习swift来写点小东西,写着写着就跑偏了,直接撸个客户端吧. 在此感谢大神 @代码家 的大力support.
 
+####先说下实现的功能吧, 这样大家好快速定位到Code
+#####Alamofire发送请求并解析JSON 
+![](Alamofire-min.png)
+#####加载中
+1. NVActivityIndicator
+
+![](activityIndicator-min.png)
+2. HUD
+
+![](HUD-min.png)
+
+######友盟相关 (分享, 统计, 推送)
+![](umeng-min.png)
+![](umeng2-min.png)
+![](umeng3-min.png)
+
+######搜索
+![](search1-min.png)
+![](search2-min.png)
+![](search3-min.png)
+
+#####Web View && Progress Bar
+![](webview1-min.png)
+![](webview2-min.png)
+
+#####福利页面Layout (转盘显示福利)
+![](fuli-min.png)
+
+##### 解析HTML
+![](kanna-min.png)
+
+##### 照片浏览
+![](skphoto-min.png)
+
+##### 计算时间差
+![](timeC-min.png)
+
 ####集成依赖
 
 就说下几个比较主要的吧:
@@ -98,6 +135,8 @@ GankItem为每一条的具体内容
 数据结构就这2种,其他的就是显示UI了,大家可以down下源码看看,注释写的不算少,一看就懂!
 
 来张项目图吧:
-![](snapshot.png)
+![](snapshot-min.png)
+
+
 
 
