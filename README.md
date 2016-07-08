@@ -5,6 +5,7 @@ Gank.io iOS 客户端
 其实原来就打算以学习swift来写点小东西,写着写着就跑偏了,直接撸个客户端吧. 在此感谢大神 @代码家 的大力support.
 
 现在已上架APP Store [快去下载↓↓↓](https://appsto.re/cn/Ata5bb.i)
+
 [![](appStore_Btn.png)](https://appsto.re/cn/Ata5bb.i)
 
 
